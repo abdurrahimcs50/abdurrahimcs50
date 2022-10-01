@@ -31,9 +31,9 @@
 
 **Web Frameworks:**
 <p>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-<img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray">
-<!-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> -->
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
+<img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=DRF&logoColor=white&color=ff1709&labelColor=gray">
+<img src="https://img.shields.io/badge/Django-Celery-38B2AC?style=for-the-badge&logo=Django-Celery&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 
@@ -49,16 +49,19 @@
 
 **DevOps and Cloud:**
 <p>
+<img alt="Git" src="https://img.shields.io/badge/Git%20-0089D6?style=for-the-badge&logo=Git&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-0089D6?style=for-the-badge&logo=GitHub&logoColor=white"/>
+<img alt="Docker" src="https://img.shields.io/badge/Docker%20-0089D6?style=for-the-badge&logo=Docker&logoColor=white"/>
+<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes%20-0089D6?style=for-the-badge&logo=Kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-4285F4?style=for-the-badge&logo=AWS&logoColor=white"><br>
+<img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean%20-%23039BE5.svg?&style=for-the-badge&logo=Digital Ocean"/>
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-<img alt="Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"><br>
-<img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
-<img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </p>
 
 **UI/UX Design:**
 <p>
 <img alt="Adobe XD" src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white"/>
+<img alt="Adobe XD" src="https://img.shields.io/badge/Figma%20%20-%23FF26BE.svg?&style=for-the-badge&logo=Figma%20&logoColor=white"/>
 </p>
 
 ### 🤝🏻 Get in Touch
