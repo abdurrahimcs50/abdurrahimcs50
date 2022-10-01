@@ -1,4 +1,4 @@
-## Hi there, Abdur Rahim here!
+## Hi there !
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=abdurrahimcs50&label=1234&countColor=%23263759)
 
