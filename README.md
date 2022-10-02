@@ -2,19 +2,19 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=abdurrahimcs50&label=1234&countColor=%23263759)
 
-### I am Abdur Rahim, I am a professional Full Stack Web Developer Specializing in Ecommerce Website Development working since 2018, and have more than 3+ years of experience with server-side languages ​​Python and Django (web frameworks). Currently, I am helping with Develop Back-end for webisites using Python Django (web framework).
+### I am Abdur Rahim, I am a professional Python Django Developer Specializing in Ecommerce Website Development working since 2018, and have more than 3+ years of experience with server-side languages ​​Python and Django (web frameworks). Currently, I am helping with Back-end Development for web applications using Python Django (web framework).
 
-### As a full stack developer, I have developed many web applications such as blog web applications, e-commerce web applications, business web applications, education web applications, organization web applications, portfolio web applications, non-profit web applications, real estate web applications, job portal web applications, etc.
+### As a Python Django Developer, I have developed many website such as blog web applications, e-commerce web applications, business web applications, education web applications, organization web applications, portfolio web applications, non-profit web applications, real estate web applications, job portal web applications, etc.
 
 # 👨🏻‍💻 What I'm bringing with me:
-- 🎓 3+ years of professional experience as a full-stack web developer.
+- 🎓 3+ years of professional experience as a Python Django Developer.
 - 🙇🏻‍♂️ 2 years of working remotely worldwide (mostly in the EST timezone)
 - 💡  Experienced in Designing and developing APIs.
 - ✍️ Mid-level backend developer (focusing on Python)
 - 💻 Experienced in Writing reusable, testable, and efficient code
 - 🏆 Experienced in leading & managing small teams
 - 🏆 Served 20+ clients as a freelancer
-- 🏆 Frontend expert (focusing HTML,CSS,bootstrap,javascript, Jquery, Reactjs and daily tools)
+- 🏆 Frontend expert (focusing HTML,CSS,bootstrap,javascript, Jquery, Ajax and daily tools)
 
 ### 🛠 Tech Stack
 
