@@ -2,7 +2,7 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=abdurrahimcs50&label=1234&countColor=%23263759)
 
-### I am Abdur Rahim, I am a professional Full Stack Web Developer Specializing in Ecommerce Website Development working since 2018, and have more than 3+ years of experience with server-side languages ​​Python and Django (web frameworks). Currently, I am helping with Back-end Development for web applications using Python Django (web framework).
+### I am Abdur Rahim, I am a professional Full Stack Web Developer Specializing in Ecommerce Website Development working since 2018, and have more than 3+ years of experience with server-side languages ​​Python and Django (web frameworks). Currently, I am helping with Develop Back-end for webisites using Python Django (web framework).
 
 ### As a full stack developer, I have developed many web applications such as blog web applications, e-commerce web applications, business web applications, education web applications, organization web applications, portfolio web applications, non-profit web applications, real estate web applications, job portal web applications, etc.
 
