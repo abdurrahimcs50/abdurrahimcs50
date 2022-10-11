@@ -2,19 +2,20 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=abdurrahimcs50&label=1234&countColor=%23263759)
 
-### I am Abdur Rahim, I am a professional Python Django Developer Specializing in Ecommerce Website Development working since 2018, and have more than 3+ years of experience with server-side languages ​​Python and Django (web frameworks). Currently, I am helping with Back-end Development for web applications using Python Django (web framework).
+### My name is Abdur Rahim I am from Bangladesh. I am a Professional Freelance Back-End Developer with Python Django with more than 3+ years of experience.
 
-### As a Python Django Developer, I have developed many website such as blog web applications, e-commerce web applications, business web applications, education web applications, organization web applications, portfolio web applications, non-profit web applications, real estate web applications, job portal web applications, etc.
+### I have working experience with 3rd Party API integration like Facebook Graph API Google Analytics APIs Etc, and Performing DevOps tasks with various CI/CD tools. I am well-versed In both Back-End and Front-End Development. I am comfortable with Python, Django, Docker, Git, GitHub, Amazon AWS, DigitalOcean, Mongo DB, MYSQL and am also familiar with HTML, CSS, Bootstrap, and JavaScript, React js for Front-End Development.
+
+### I have experience in various Industries like eCommerce, Construction, Real Estate, Hotels & Resorts, Healthcare, Travel and Tourism, and Manufacturing companies that create powerful and innovative solutions to their problems and always keep mobile and desktop environments in mind.
 
 # 👨🏻‍💻 What I'm bringing with me:
-- 🎓 3+ years of professional experience as a Python Django Developer.
-- 🙇🏻‍♂️ 2 years of working remotely worldwide (mostly in the EST timezone)
-- 💡  Experienced in Designing and developing APIs.
-- ✍️ Mid-level backend developer (focusing on Python)
-- 💻 Experienced in Writing reusable, testable, and efficient code
-- 🏆 Experienced in leading & managing small teams
-- 🏆 Served 20+ clients as a freelancer
-- 🏆 Frontend expert (focusing HTML,CSS,bootstrap,javascript, Jquery, Ajax and daily tools)
+- ➤ A solid foundation in OOP, algorithms, Data Structure & Python with Django.
+- ➤ Ability to solve difficult problems.
+- ➤ Design and documentation of REST APIs.
+- ➤ Experienced in Writing reusable, testable, and efficient code
+- ➤ Implementing automated testing platforms and unit tests
+- ➤ 3rd Party API integration.
+- ➤ Proficient understanding of GIT, Github, Docker, AWS, DigitalOcean, Algolia, Elasticsearch, Redis, MySQL, Mongo DB, and Django Celery.
 
 ### 🛠 Tech Stack
 
