@@ -2,20 +2,30 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=abdurrahimcs50&label=1234&countColor=%23263759)
 
-### My name is Abdur Rahim I am from Bangladesh. I am a Professional Freelance Back-End Developer with Python Django with more than 3+ years of experience.
+### I am a Senior Back-End Developer with over 3 years of commercial experience in Python 3, Django, AWS, Docker, and Kubernetes. I have a deep understanding of the development process and a solid foundation in OOP, algorithms, Data Structure, and Python with Django.
 
-### I have working experience with 3rd Party API integration like Facebook Graph API Google Analytics APIs Etc, and Performing DevOps tasks with various CI/CD tools. I am well-versed In both Back-End and Front-End Development. I am comfortable with Python, Django, Docker, Git, GitHub, Amazon AWS, DigitalOcean, Mongo DB, MYSQL and am also familiar with HTML, CSS, Bootstrap, and JavaScript, React js for Front-End Development.
+### My expertise in AWS services and tools such as EC2, S3, ECS, Lambda, Load Balancer, and boto3 allows me to deliver highly scalable and reliable solutions. I have hands-on experience with Git, Docker, SQL, Digital Ocean, Django-Rest-Framework, Redis, MongoDB, Django-Celery, and Selenium, as well as Beautiful Soup for web scraping. I also have a strong understanding of JWT, OpenID, and OAuth 2.0, which enables me to integrate secure authentication and authorization into my projects.
 
-### I have experience in various Industries like eCommerce, Construction, Real Estate, Hotels & Resorts, Healthcare, Travel and Tourism, and Manufacturing companies that create powerful and innovative solutions to their problems and always keep mobile and desktop environments in mind.
+### I am well-versed in CI/CD processes and have extensive experience in designing and implementing automated testing platforms and unit tests to ensure high-quality code. My ability to solve difficult problems and my strong foundation in OOP, algorithms, Data Structure, and Python with Django have enabled me to deliver solutions that meet and exceed client expectations.
 
-# 👨🏻‍💻 What I'm bringing with me:
-- ➤ A solid foundation in OOP, algorithms, Data Structure & Python with Django.
-- ➤ Ability to solve difficult problems.
-- ➤ Design and documentation of REST APIs.
-- ➤ Experienced in Writing reusable, testable, and efficient code
-- ➤ Implementing automated testing platforms and unit tests
-- ➤ 3rd Party API integration.
-- ➤ Proficient understanding of GIT, Github, Docker, AWS, DigitalOcean, Algolia, Elasticsearch, Redis, MySQL, Mongo DB, and Django Celery.
+### I have extensive experience in designing and documenting REST APIs, which are reusable, testable, and efficient. I have also worked on integrations with various databases and have experience in 3rd party API integrations, including payment gateway integration, meta Graph API, Google APIs, etc.
+
+### I take pride in my attention to detail and my ability to create well-documented code that is easy to maintain and scale. I am a highly motivated and dedicated professional who is always eager to take on new challenges and learn new technologies.
+
+# MY SKILLS :
+➤ Over 3 years of commercial experience in Python 3, Django, AWS, Docker, and Kubernetes
+➤ Strong knowledge of AWS services and tools (EC2, S3, ECS, Lambda, Load Balancer, boto3)
+➤ Hands-on experience with Git, Docker, SQL, Digital Ocean, Django-Rest-Framework, Redis, MongoDB, Django-Celery, Selenium, and Beautiful Soup for web scraping
+➤ Strong understanding of JWT, OpenID, and OAuth 2.0
+➤ Experience in designing and implementing automated testing platforms and unit tests
+➤ Ability to solve difficult problems and a strong foundation in OOP, algorithms, Data Structure, and Python with Django
+➤ Extensive experience in designing and documenting REST APIs
+➤ Experience in integrations with various databases and 3rd party API integrations (payment gateway integration, meta Graph API, Google APIs, etc.)
+➤ Attention to detail and ability to create well-documented, maintainable, and scalable code.
+
+
+### If you are looking for a Senior Back-end Developer with the skills and experience to deliver high-quality results, then I am the person you are looking for. I would love the opportunity to discuss your project with you further and demonstrate how my skills and experience can contribute to its success. Please don't hesitate to get in touch.
+
 
 ### 🛠 Tech Stack
 
