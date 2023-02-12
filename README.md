@@ -14,13 +14,21 @@
 
 # MY SKILLS :
 ➤ Over 3 years of commercial experience in Python 3, Django, AWS, Docker, and Kubernetes
+
 ➤ Strong knowledge of AWS services and tools (EC2, S3, ECS, Lambda, Load Balancer, boto3)
+
 ➤ Hands-on experience with Git, Docker, SQL, Digital Ocean, Django-Rest-Framework, Redis, MongoDB, Django-Celery, Selenium, and Beautiful Soup for web scraping
+
 ➤ Strong understanding of JWT, OpenID, and OAuth 2.0
+
 ➤ Experience in designing and implementing automated testing platforms and unit tests
+
 ➤ Ability to solve difficult problems and a strong foundation in OOP, algorithms, Data Structure, and Python with Django
+
 ➤ Extensive experience in designing and documenting REST APIs
+
 ➤ Experience in integrations with various databases and 3rd party API integrations (payment gateway integration, meta Graph API, Google APIs, etc.)
+
 ➤ Attention to detail and ability to create well-documented, maintainable, and scalable code.
 
 
