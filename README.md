@@ -53,7 +53,6 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
 <img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=DRF&logoColor=white&color=ff1709&labelColor=gray">
 <img src="https://img.shields.io/badge/Celery-38B2AC?style=for-the-badge&logo=Django-Celery&logoColor=white">
-  <img src="https://img.shields.io/badge/Redis-38B2AC?style=for-the-badge&logo=Django-Celery&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 
