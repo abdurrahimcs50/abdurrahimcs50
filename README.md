@@ -6,14 +6,6 @@
 
 ### My expertise in AWS services and tools such as EC2, S3, ECS, Lambda, Load Balancer, and boto3 allows me to deliver highly scalable and reliable solutions. I have hands-on experience with Git, Docker, SQL, Digital Ocean, Django-Rest-Framework, Redis, MongoDB, Django-Celery, and Selenium, as well as Beautiful Soup for web scraping. I also have a strong understanding of JWT, OpenID, and OAuth 2.0, which enables me to integrate secure authentication and authorization into my projects.
 
-### I am well-versed in CI/CD processes and have extensive experience in designing and implementing automated testing platforms and unit tests to ensure high-quality code. My ability to solve difficult problems and my strong foundation in OOP, algorithms, Data Structure, and Python with Django have enabled me to deliver solutions that meet and exceed client expectations.
-
-### I have extensive experience in designing and documenting REST APIs, which are reusable, testable, and efficient. I have also worked on integrations with various databases and have experience in 3rd party API integrations, including payment gateway integration, meta Graph API, Google APIs, etc.
-
-### I take pride in my attention to detail and my ability to create well-documented code that is easy to maintain and scale. I am a highly motivated and dedicated professional who is always eager to take on new challenges and learn new technologies.
-
-### If you are looking for a Senior Back-end Developer with the skills and experience to deliver high-quality results, then I am the person you are looking for. I would love the opportunity to discuss your project with you further and demonstrate how my skills and experience can contribute to its success. Please don't hesitate to get in touch.
-
 
 ### 🛠 Tech Stack
 
