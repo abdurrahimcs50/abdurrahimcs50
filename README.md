@@ -2,7 +2,7 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=abdurrahimcs50&label=1234&countColor=%23263759)
 
-###Experienced Back End Developer with a proven track record in the dynamic e-commerce industry. Proficient in Python, Django, Django REST, Docker, CICD, Git, Github, Celery, Redis, Selenium, MySQL, NGINX, Apache, 3rd party API integrations, and REST APIs. Skilled in hosting Django applications on VPS servers, ensuring optimal performance and security. Results-driven mindset, with a keen eye for optimizing code and delivering high-quality solutions. Strong communication and collaboration skills.
+### Experienced Back End Developer with a proven track record in the dynamic e-commerce industry. Proficient in Python, Django, Django REST, Docker, CICD, Git, Github, Celery, Redis, Selenium, MySQL, NGINX, Apache, 3rd party API integrations, and REST APIs. Skilled in hosting Django applications on VPS servers, ensuring optimal performance and security. Results-driven mindset, with a keen eye for optimizing code and delivering high-quality solutions. Strong communication and collaboration skills.
 
 
 ### 🛠 Tech Stack
