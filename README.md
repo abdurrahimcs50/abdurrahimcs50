@@ -2,9 +2,7 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=abdurrahimcs50&label=1234&countColor=%23263759)
 
-### I am a Full-Time Freelance Senior Back-End Developer with over 3 years of commercial experience in Python 3, Django, AWS, Docker, and Kubernetes. I have a deep understanding of the development process and a solid foundation in OOP, algorithms, Data Structure, and Python with Django.
-
-### My expertise in AWS services and tools such as EC2, S3, ECS, Lambda, Load Balancer, and boto3 allows me to deliver highly scalable and reliable solutions. I have hands-on experience with Git, Docker, SQL, Digital Ocean, Django-Rest-Framework, Redis, MongoDB, Django-Celery, and Selenium, as well as Beautiful Soup for web scraping. I also have a strong understanding of JWT, OpenID, and OAuth 2.0, which enables me to integrate secure authentication and authorization into my projects.
+###Experienced Back End Developer with a proven track record in the dynamic e-commerce industry. Proficient in Python, Django, Django REST, Docker, CICD, Git, Github, Celery, Redis, Selenium, MySQL, NGINX, Apache, 3rd party API integrations, and REST APIs. Skilled in hosting Django applications on VPS servers, ensuring optimal performance and security. Results-driven mindset, with a keen eye for optimizing code and delivering high-quality solutions. Strong communication and collaboration skills.
 
 
 ### 🛠 Tech Stack
