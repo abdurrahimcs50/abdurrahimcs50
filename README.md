@@ -71,8 +71,8 @@ I'm an Experienced Python Back-End Developer with a passion for building innovat
 
 #### 👉 I am passionate about solving complex problems, improving efficiency and productivity, and delivering value to clients. I look forward to bringing my strong work ethic and dedication to quality to your project.
 
-## 👉 Contact:
-- 📧 Email: admin@rahim.com.bd
-- 🔗 Website: [rahim.com.bd](https://www.rahim.com.bd)
+## 👉  You can reach me at - 📧 Email: admin@rahim.com.bd and find more about my work on - 🔗 my Website: [rahim.com.bd](https://www.rahim.com.bd) Looking forward to connecting with you!✅
+
+
 
 Looking forward to connecting with you!
