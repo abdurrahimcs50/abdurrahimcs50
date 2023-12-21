@@ -1,6 +1,8 @@
 # Hi there! 👋
 
-I am an experienced Python Back-End Developer with a proven track record in building high-traffic, data-driven applications across fintech, healthcare, and e-commerce industries. My expertise in Python, Django, Django REST Framework, Django Celery, Docker, ELK Stack, and cloud platforms has enabled me to craft innovative solutions that significantly improve efficiency and user experience. I am adept at database management, server operations, web scraping, automation, and continuous integration and deployment processes. My passion for solving complex problems and delivering value makes me a valuable asset to potential employers.
+I’m a Sr. Back-End Developer with 3+ years of experience specializing in Python, Django, FastAPI, Docker, Celery, Django REST Framework (DRF), AWS, and SQL. I’ve developed and maintained high-traffic, data-driven SaaS products across fintech, healthcare, and e-commerce sectors. My role includes building efficient RESTful services, ensuring high-quality code, and collaborating with teams to deliver a superior user experience.
+
+I have a proven track record in database management, server operations, web scraping, automation, and CI/CD processes. My expertise in Python, Django, FastAPI, Django REST Framework, Django Celery, Docker, and various cloud platforms has enabled me to create innovative solutions that enhance efficiency and user experience.
 
 ### 🛠 Tech Stack
 
