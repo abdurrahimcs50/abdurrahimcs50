@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-With over 4 years of experience in the tech industry, I specialize in backend development using Python, Django, and Django REST Framework. My expertise lies in crafting high-traffic SaaS solutions for fintech, healthcare, and e-commerce sectors. I have a proven track record in integrating Generative AI technologies such as LangChain and OpenAI API, offering unparalleled NLP and AI capabilities. I excel in database management, CI/CD, and DevOps, leveraging tools like Docker, AWS, and Oracle for optimal application performance. My commitment to continuous learning is demonstrated by my certifications from Coursera, HarvardX, and Udemy, and my passion for problem-solving drives me to deliver scalable, secure, and user-centric applications. Let’s connect to discuss how my expertise can contribute to your next project.
+Results-driven Python Developer (Django) & LLM & RAG Specialist with 4+ years of experience delivering innovative, AI-powered solutions. Proficient in Python, Django, and advanced AI frameworks like LangChain and OpenAI. Skilled in cloud technologies (AWS, GCP) and DevOps practices. Passionate about leveraging cutting-edge technology to solve complex problems and drive business growth. Let’s connect to discuss how my expertise can contribute to your next project.
 
 ### 🛠 Tech Stack
 
