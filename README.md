@@ -1,6 +1,23 @@
 # Hi there! 👋
 
-Results-driven Python Developer (Django) & LLM & RAG Specialist with 4+ years of experience delivering innovative, AI-powered solutions. Proficient in Python, Django, and advanced AI frameworks like LangChain and OpenAI. Skilled in cloud technologies (AWS, GCP) and DevOps practices. Passionate about leveraging cutting-edge technology to solve complex problems and drive business growth. Let’s connect to discuss how my expertise can contribute to your next project.
+MD Abdur Rahim (He/Him)
+🌐 rahim.com.bd | 💼 LinkedIn | 💻 GitHub | 🐦 Twitter/X | 🧠 StackOverflow
+
+I'm a Freelance Python & Django Developer with 5+ years of experience building scalable, secure, and AI-powered web applications. I specialize in:
+
+✅ Scalable Backend Development (Python, Django, DRF)
+✅ RESTful & GraphQL API Design
+✅ Generative AI & LLM Applications (OpenAI, LangChain, RAG)
+✅ Advanced Web Scraping & Browser Automation
+✅ Docker, AWS, and DevOps CI/CD Pipelines
+✅ Data Analytics, ETL, and Custom Dashboards
+
+I’ve helped startups, SaaS platforms, and agencies across Fintech, E-commerce, LegalTech, and Real Estate domains deliver high-performance, AI-enhanced solutions.
+
+I'm passionate about automating workflows, solving real-world problems, and integrating cutting-edge LLMs into modern applications.
+
+Let’s connect and build something impactful together!
+📩 Available for freelance projects, consulting, and collaborations.
 
 ### 🛠 Tech Stack
 
