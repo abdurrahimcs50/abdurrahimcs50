@@ -2,12 +2,18 @@
 
 I'm a Freelance Python & Django Developer with 5+ years of experience building scalable, secure, and AI-powered web applications. I specialize in:
 
-✅ Scalable Backend Development (Python, Django, DRF)
-✅ RESTful & GraphQL API Design
-✅ Generative AI & LLM Applications (OpenAI, LangChain, RAG)
-✅ Advanced Web Scraping & Browser Automation
-✅ Docker, AWS, and DevOps CI/CD Pipelines
-✅ Data Analytics, ETL, and Custom Dashboards
+✅ Scalable Backend Development (Python, Django, DRF).
+
+✅ RESTful & GraphQL API Design.
+
+✅ Generative AI & LLM Applications (OpenAI, LangChain, RAG).
+
+✅ Advanced Web Scraping & Browser Automation.
+
+✅ Docker, AWS, and DevOps CI/CD Pipelines.
+
+✅ Data Analytics, ETL, and Custom Dashboards.
+
 
 I’ve helped startups, SaaS platforms, and agencies across Fintech, E-commerce, LegalTech, and Real Estate domains deliver high-performance, AI-enhanced solutions.
 
