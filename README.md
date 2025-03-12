@@ -1,8 +1,5 @@
 # Hi there! 👋
 
-MD Abdur Rahim (He/Him)
-🌐 rahim.com.bd | 💼 LinkedIn | 💻 GitHub | 🐦 Twitter/X | 🧠 StackOverflow
-
 I'm a Freelance Python & Django Developer with 5+ years of experience building scalable, secure, and AI-powered web applications. I specialize in:
 
 ✅ Scalable Backend Development (Python, Django, DRF)
