@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there!+👋;I'm+MD+Abdur+Rahim" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🚀 Freelance Python & Django Developer | Generative AI & Web Scraping Specialist</h3>
+<h3 align="center">Freelance Python & Django Developer | Generative AI & Web Scraping Specialist</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdurrahimcs50/">
@@ -18,15 +18,15 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a passionate **Python & Django Developer** with **5+ years** of experience specializing in building intelligent web applications. I bridge the gap between traditional web development and cutting-edge AI solutions.
 
 **My Core Expertise:**
-- 🤖 **Generative AI Integration** - Building intelligent chatbots, content generators, and RAG systems with OpenAI and LangChain
-- 🕷️ **Advanced Web Scraping** - Creating robust data extraction pipelines with Scrapy, Selenium, and BeautifulSoup
-- 🌐 **Backend Development** - Crafting scalable Django APIs and microservices
-- 📊 **Data Automation** - Transforming raw data into actionable insights and automated reports
+- ✅ **Generative AI Integration** - Building intelligent chatbots, content generators, and RAG systems with OpenAI and LangChain
+- ✅ **Advanced Web Scraping** - Creating robust data extraction pipelines with Scrapy, Selenium, and BeautifulSoup
+- ✅ **Backend Development** - Crafting scalable Django APIs and microservices
+- ✅ **Data Automation** - Transforming raw data into actionable insights and automated reports
 
 ---
 
@@ -81,28 +81,13 @@ I'm a passionate **Python & Django Developer** with **5+ years** of experience s
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdurrahimcs50&theme=radical&hide_border=true" />
 </p>
 
----
-
-## 🚀 Featured Projects
-
-### 🤖 [RAG Chatbot Application](https://github.com/abdurrahimcs50/rag-chatbot)
-AI-powered chatbot with document retrieval using LangChain, OpenAI, and Streamlit
-
-### 🕷️ [Advanced Web Scraper](https://github.com/abdurrahimcs50/web-scraper)
-Scalable scraping solution for data extraction from multiple sources
-
-### 🛒 [E-commerce Platform](https://github.com/abdurrahimcs50/ecommerce-platform)
-Full-featured Django e-commerce solution with payment integration
-
----
-
 ## 📊 Achievements
 
-- ✅ **20+** production applications deployed
-- ✅ **100,000+** monthly active users served
-- ✅ **40%** engagement improvement with AI chatbots
-- ✅ **50+** websites successfully scraped for data
-- ✅ **30%** cost reduction through optimized solutions
+- ✅ **20+** production applications deployed.
+- ✅ **100,000+** monthly active users served.
+- ✅ **40%** engagement improvement with AI chatbots.
+- ✅ **50+** websites successfully scraped for data.
+- ✅ **30%** cost reduction through optimized solutions.
 
 ---
 
@@ -124,4 +109,4 @@ I'm always interested in discussing new projects, AI solutions, or data automati
 
 ---
 
-> **"Turning complex challenges into elegant, AI-driven solutions. Let's build the future together!"** 🚀
+> **"Turning complex challenges into elegant, AI-driven solutions. Let's build the future together!"** 
