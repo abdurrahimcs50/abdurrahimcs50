@@ -23,10 +23,10 @@
 I'm a passionate **Python & Django Developer** with **5+ years** of experience specializing in building intelligent web applications. I bridge the gap between traditional web development and cutting-edge AI solutions.
 
 **My Core Expertise:**
-- ✅ **Generative AI Integration** - Building intelligent chatbots, content generators, and RAG systems with OpenAI and LangChain
-- ✅ **Advanced Web Scraping** - Creating robust data extraction pipelines with Scrapy, Selenium, and BeautifulSoup
-- ✅ **Backend Development** - Crafting scalable Django APIs and microservices
-- ✅ **Data Automation** - Transforming raw data into actionable insights and automated reports
+- ✅ **Generative AI Integration** - Building intelligent chatbots, content generators, and RAG systems with OpenAI LangChain, LangGraph.
+- ✅ **Advanced Web Scraping** - Creating robust data extraction pipelines with Selenium and BeautifulSoup.
+- ✅ **Backend Development** - Crafting scalable Django APIs and microservices.
+- ✅ **Data Automation** - Transforming raw data into actionable insights and automated reports.
 
 ---
 
@@ -36,6 +36,7 @@ I'm a passionate **Python & Django Developer** with **5+ years** of experience s
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-blue?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangChain-blue?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge)
 
 ### **Web Frameworks**
@@ -45,16 +46,13 @@ I'm a passionate **Python & Django Developer** with **5+ years** of experience s
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### **Web Scraping Tools**
-![Scrapy](https://img.shields.io/badge/Scrapy-639B0C?style=for-the-badge&logo=scrapy&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-44B02A?style=for-the-badge)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 ### **Data Processing**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
